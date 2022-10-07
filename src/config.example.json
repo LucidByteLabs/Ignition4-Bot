@@ -1,7 +1,7 @@
 {
   "botAdmin": "ID HERE",
   "loggingLevel": "info",
-  "stringLocale": "de-DE",
+  "stringLocale": "en-US",
   "presenceInterval": 15,
   "urlDetection": {
     "enabled": true,
