@@ -51,7 +51,7 @@ export class AutoPublisherClient extends Client {
     this.user?.setPresence({
       activities: [
         {
-          name: `${guilds} server${guilds > 1 ? 's' : ''}`,
+          name: 'Playing A Game: Rocksmith 2014 Remastered',
           type: 'WATCHING',
         },
       ],
