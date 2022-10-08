@@ -51,8 +51,8 @@ export class AutoPublisherClient extends Client {
     this.user?.setPresence({
       activities: [
         {
-          name: 'Playing A Game: Rocksmith 2014 Remastered',
-          type: 'WATCHING',
+          name: 'Rocksmith 2014 Remastered',
+          type: 'PLAYING',
         },
       ],
     });
